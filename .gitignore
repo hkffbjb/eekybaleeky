@@ -1,2 +1,5 @@
 config.py
 test*
+__pycache__
+.idea/*
+client_secrets.json
